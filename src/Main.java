@@ -7,5 +7,7 @@ public class Main {
         rectangle.squareResult();
         Triangle triangle = new Triangle(5, 4, 6);
         triangle.squareResult();
+        Circle circle = new Circle(4);
+        circle.squareResult();
     }
 }
